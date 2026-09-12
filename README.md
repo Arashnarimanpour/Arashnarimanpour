@@ -55,22 +55,6 @@ I enjoy turning raw security telemetry into actionable detections and continuous
 <img src="https://img.shields.io/badge/Falco-Runtime_Security-00AEC7?style=for-the-badge"/>
 </p>
 
-### DFIR
-
-<p>
-<img src="https://img.shields.io/badge/Volatility_3-Memory_Forensics-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Autopsy-Disk_Forensics-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KAPE-Windows_Forensics-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plaso-Timeline_Forensics-yellow?style=for-the-badge"/>
-</p>
-
-### Languages & Automation
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-</p>
 
 ### Platforms
 
