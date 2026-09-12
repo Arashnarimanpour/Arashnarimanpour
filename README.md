@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Arash Narimanpour
+# Hi, I'm Arash Narimanpour
 
-### 🛡️ SOC Analyst | Detection Engineering | DFIR | Cybersecurity
+### SOC Analyst | Detection Engineering | DFIR | Cybersecurity
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Security+Operations+Center;Detection+Engineering;Splunk+Enterprise+Security;Digital+Forensics+%26+Incident+Response;Threat+Hunting+%26+Security+Automation" />
@@ -20,24 +20,24 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I work in **Cybersecurity and Security Operations**, with a strong focus on:
 
-- 🔎 Detection Engineering
-- 🛡️ Security Operations Center
-- 🚨 Incident Detection & Response
-- 🧠 Threat Hunting
-- 🔬 Digital Forensics & Incident Response
-- ⚙️ Security Automation
-- 📊 SIEM Engineering
-- 🌐 Network & Endpoint Security
+-  Detection Engineering
+-  Security Operations Center
+-  Incident Detection & Response
+-  Threat Hunting
+-  Digital Forensics & Incident Response
+-  Security Automation
+-  SIEM Engineering
+-  Network & Endpoint Security
 
 I enjoy turning raw security telemetry into actionable detections and continuously improving SOC visibility.
 
 ---
 
-## 🛡️ Security Stack
+## Security Stack
 
 ### SIEM / SOAR
 
@@ -85,7 +85,7 @@ I enjoy turning raw security telemetry into actionable detections and continuous
 
 ---
 
-# 🔥 Detection Engineering
+# Detection Engineering
 
 My primary interest is building and tuning security detections using real endpoint, network and operating-system telemetry.
 
