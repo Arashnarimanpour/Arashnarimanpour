@@ -27,10 +27,8 @@ I work in **Cybersecurity and Security Operations**, with a strong focus on:
 -  Detection Engineering
 -  Security Operations Center
 -  Incident Detection & Response
--  Threat Hunting
--  Digital Forensics & Incident Response
 -  Security Automation
--  SIEM Engineering
+-  SIEM Detection Engineering 
 -  Network & Endpoint Security
 
 I enjoy turning raw security telemetry into actionable detections and continuously improving SOC visibility.
