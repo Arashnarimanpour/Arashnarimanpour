@@ -5,7 +5,7 @@
 ### SOC Analyst | Detection Engineering | DFIR | Cybersecurity
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Security+Operations+Center;Detection+Engineering;Splunk+Enterprise+Security;Digital+Forensics+%26+Incident+Response;Threat+Hunting+%26+Security+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Security+Operations+Center;Detection+Engineering;Splunk+Enterprise+Security;Digital+Forensics+%26+Incident+Response;" />
 </p>
 
 <a href="https://github.com/Arashnarimanpour">
